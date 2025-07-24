@@ -150,6 +150,12 @@ function HomeClient() {
 
   return (
     <PageLayout>
+      <section class="banner-section">
+            <a href="https://icrown2a.com/signup.php?refcode=SH583924173" target="_blank">
+                <img src="images/super_english_banner.jpeg" alt="推广 Banner">
+            </a>
+        </section>
+
       <div className='px-2 sm:px-10 py-4 sm:py-8 overflow-visible'>
         {/* 顶部 Tab 切换 */}
         <div className='mb-8 flex justify-center'>
