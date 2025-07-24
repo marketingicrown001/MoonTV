@@ -164,6 +164,22 @@ function HomeClient() {
           />
         </div>
 
+
+
+        <section className="mb-6 rounded-lg overflow-hidden shadow-lg">
+  <a href="https://icrown2a.com/signup.php?refcode=SH583924173">
+    <img
+      src="https://icrown.io/wp-content/uploads/2025/07/super%E8%8B%B1%E6%96%87.jpg"
+      alt="促销 Banner"
+      className="w-full object-cover rounded-lg hover:scale-105 transition-transform duration-300"
+    />
+  </a>
+</section>
+
+
+
+        
+
         <div className='max-w-[95%] mx-auto'>
           {activeTab === 'favorites' ? (
             // 收藏夹视图
